@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cFF50fe50Sirus: Improved UI
+## Notes: Interface from the official server.
+## Notes-ruRU: Тот самый интерфейс с официального сервера.
+## Author: Oleg Doronin, Karl-Heinz Schneider, s0high
+## Version: r5
+## SavedVariables: Sirus_ImprovedUI_DB
+
+Sirus_ImprovedUI.xml

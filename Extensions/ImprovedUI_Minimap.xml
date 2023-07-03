@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="ImprovedUI_Minimap\config.lua"/>
+	<Script file="ImprovedUI_Minimap\atlas.lua"/>
+	<Script file="ImprovedUI_Minimap\core.lua"/>
+	<Script file="ImprovedUI_Minimap\map.lua"/>
+	<Script file="ImprovedUI_Minimap\watch.lua"/>
+	<Script file="ImprovedUI_Minimap\time.lua"/>
+	<Script file="ImprovedUI_Minimap\auras.lua"/>
+	<Script file="ImprovedUI_Minimap\init.lua"/>
+	<!-- <Include file="ImprovedUI_Minimap.xml"/> -->
+</Ui>
